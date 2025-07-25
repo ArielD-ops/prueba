@@ -1,0 +1,8 @@
+/* Global Styles with TailwindCSS and Custom Font */
+@tailwind base; /* Here we load base styles: browser reset and essential rules.*/
+@tailwind components; /* Next we import predefined components from Tailwind. */
+@tailwind utilities; /* Finally, we bring all the utilities for quick design (margins, colors, flex, etc.). */
+
+body {
+  font-family: Arial, sans-serif; /* We define a friendly and legible font for the entire site. */
+}
