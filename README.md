@@ -1,4 +1,4 @@
-# **Notes Application**
+# **Note-taking app**
 
 A simple note-taking web app, with features for adding and filtering tags, built as a single-page application (SPA) using React for the frontend and NestJS for the backend, with PostgreSQL for storing data.
 
